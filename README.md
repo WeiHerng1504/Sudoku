@@ -15,7 +15,8 @@ In the figure, cell number 51 is a member of set 5 (row-based set), set 15 (colu
 Input to the program should always be a 9x9 grid with 0 used to represent empty cells. Input is provided in a text file. The program reads the input in row-major order using a sequence of 81 calls in a loop and stored as a one dimensional array. 
 
 The output from the program will be a neatly-formatted representation of the input data and a summary line. Below is an example of the input(left) and output(right) of the program.
-<img src="https://user-images.githubusercontent.com/94183388/169520928-4e327f3e-ec0a-48d4-b5a6-0e62f5460c15.png" width="48" height="48">
+
+<img src="https://user-images.githubusercontent.com/94183388/169520928-4e327f3e-ec0a-48d4-b5a6-0e62f5460c15.png" width="100" height="100">
 
 ### Grid checking
 The program checks the input grid mistakes, to ensure that none of the twenty seven sets in the puzzle have duplicate elements. If any errors are detected, the program will report the errors according to their set number, from 0 to 26, and also by the set type (“row”, “col”, or “sqr”) and the ordinal (counting from one) number of that set.
