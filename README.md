@@ -8,7 +8,7 @@ The goal of sudoku is to complete a square grid of 9x9 cells using only numbers 
 In this projects cells are described by number and by "set". Sets are in the order of row, column, and grid. Sets 0 to 8 are row sets (top to bottom), sets 9 to 17 are column sets (left to right) and sets 18 to 26 are grid sets (left to right). Constant arrays c2s (cell-to-set) and s2c (set-to-cell) were provided as part of the skeleton code and are used for easy identification of which sets a cell belongs to and which cells a set contains. Array c2s has eighty one rows and three columns, with c2s[c] listing the ordinal numbers of the three sets that include cell c. Array s2c has twenty seven rows and nine columns, with s2c[s] listing the cells that make up set number s. 
 
 <p width="100%" align="center">
-<img src="https://user-images.githubusercontent.com/94183388/169522376-e7e60ce7-5cc6-455c-bb0e-893bd339bca3.png" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/94183388/169522376-e7e60ce7-5cc6-455c-bb0e-893bd339bca3.png" width="300" height="300">
 </p>
 
 In the figure, cell number 51 is a member of set 5 (row-based set), set 15 (column-based set) and set 23 (grid-based set).
