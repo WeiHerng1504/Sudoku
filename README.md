@@ -9,6 +9,10 @@ In this projects cells are described by number and by "set". Sets are in the ord
 
 ![image](https://user-images.githubusercontent.com/94183388/169522376-e7e60ce7-5cc6-455c-bb0e-893bd339bca3.png)
 
+<p width="100%" align="center">
+<img src="https://user-images.githubusercontent.com/94183388/169522376-e7e60ce7-5cc6-455c-bb0e-893bd339bca3.png" width="600" height="300">
+</p>
+
 In the figure, cell number 51 is a member of set 5 (row-based set), set 15 (column-based set) and set 23 (grid-based set).
 
 
