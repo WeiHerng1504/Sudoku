@@ -17,8 +17,10 @@ Input to the program should always be a 9x9 grid with 0 used to represent empty 
 
 The output from the program will be a neatly-formatted representation of the input data and a summary line. Below is an example of the input(left) and output(right) of the program.
 
-<img src="https://user-images.githubusercontent.com/94183388/169520928-4e327f3e-ec0a-48d4-b5a6-0e62f5460c15.png" width="600" height="300" align="center>
-
+<p width="100%" align="center">
+<img src="https://user-images.githubusercontent.com/94183388/169520928-4e327f3e-ec0a-48d4-b5a6-0e62f5460c15.png" width="600" height="300">
+</p>
+                                                                                                                                                 
 ### Grid checking
 The program checks the input grid mistakes, to ensure that none of the twenty seven sets in the puzzle have duplicate elements. If any errors are detected, the program will report the errors according to their set number, from 0 to 26, and also by the set type (“row”, “col”, or “sqr”) and the ordinal (counting from one) number of that set.
 
