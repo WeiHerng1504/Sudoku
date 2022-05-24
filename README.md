@@ -32,4 +32,5 @@ The program checks the input grid mistakes, to ensure that none of the twenty se
 
 The input (left) to the program is checked for errors, and the output (right) is produced. The program will stop at this stage if any errors are detected.
 
-
+### Strategy
+Solving a sudoku involves application of several different strategies. This program implements the simplest of those strategies, which is sufficient to solve “Easy”-grade sudokus. In this strategy, each cell c should be considered in turn. The three sets that cell is a member of (found using array c2s[c]) should be examined, accumulating label counts from the (up to) 24 labeled cells in those three sets (found using array s2c[c]). Each of those labels is a number between 1 and 9. Hence, if there is only one of those nine possible numbers that does not yet occur anywhere in c’s three sets, then it must be the label for cell c.
