@@ -30,6 +30,6 @@ The program checks the input grid mistakes, to ensure that none of the twenty se
  <img src="https://user-images.githubusercontent.com/94183388/170006188-5fbbb619-5a4d-4d0b-b531-a22d1fff536d.png" width="700" height="300">
 </p>
 
-The input (left) to the program is checked for errors, and the output (right) is produced.
+The input (left) to the program is checked for errors, and the output (right) is produced. The program will stop at this stage if any errors are detected.
 
 
