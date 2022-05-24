@@ -27,8 +27,7 @@ The output from the program will be a neatly-formatted representation of the inp
 The program checks the input grid mistakes, to ensure that none of the twenty seven sets in the puzzle have duplicate elements. If any errors are detected, the program will report the errors according to their set number, from 0 to 26, and also by the set type (“row”, “col”, or “sqr”) and the ordinal (counting from one) number of that set.
 
 <p width="100%" align="center" justify-content="space-between" display="flex>
- <img src="https://user-images.githubusercontent.com/94183388/169524436-130f7472-996d-4ff8-a8f7-e1099a4405a0.png" width="300" height="300" margin-right="100px">
- <img src="https://user-images.githubusercontent.com/94183388/169524476-04a5a7b7-a01c-49ee-9010-70984cbd1456.png" width="300" height="300" margin-left="100px">
+ <img src="https://user-images.githubusercontent.com/94183388/170006188-5fbbb619-5a4d-4d0b-b531-a22d1fff536d.png" width="600" height="300">
 </p>
 
 
