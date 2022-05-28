@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1631264340 source:d:\university of melbourne resources\year 1 semester 2\foa\assignment 1\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1631264438 source:e:\university of melbourne resources\year 1 semester 2\foa\assignment 1\assignment 1\my_strategy1.c
+
+1631264652 source:e:\university of melbourne resources\year 1 semester 2\foa\assignment 1\assignment 1\output_matching_strategy.c
+
